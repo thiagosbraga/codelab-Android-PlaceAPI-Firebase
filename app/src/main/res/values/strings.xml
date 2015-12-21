@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check-out</string>
+    <string name="title_activity_maps">Check outs!</string>
+    <string name="check_out">Check Out!</string>
+</resources>
